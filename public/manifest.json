@@ -1,0 +1,19 @@
+{
+    "name": "Tuple Demo",
+    "short_name": "Tuple",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "orientation": "portrait",
+    "start_url": "/",
+    "scope": "/",
+    "icons": [
+      {
+        "src": "/icons/512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "splash_pages": null
+  }
+  
